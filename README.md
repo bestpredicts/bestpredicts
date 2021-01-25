@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Twitter: yongdeng0101](https://img.shields.io/twitter/follow/yongdeng0101?style=social)](https://twitter.com/yongdeng0101)
 [![GitHub bestpredicts](https://img.shields.io/github/followers/bestpredicts?label=follow&style=social)](https://github.com/bestpredicts)
+[![zhihu YongDeng0101](https://img.shields.io/zhihu/followers/YongDeng0101?label=follow&style=social)](https://www.zhihu.com/people/YongDeng0101)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bestpredicts&show_icons=true&theme=radical)
