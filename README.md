@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Twitter: yongdeng0101](https://img.shields.io/twitter/follow/yongdeng0101?style=social)](https://twitter.com/yongdeng0101)
 [![GitHub bestpredicts](https://img.shields.io/github/followers/bestpredicts?label=follow&style=social)](https://github.com/bestpredicts)
-
+[![Kaggle bestpredicts](https://img.shields.io/badge/profile-Kaggle-blue.svg)](https://www.kaggle.com/bestpredict)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bestpredicts&show_icons=true&theme=radical)
