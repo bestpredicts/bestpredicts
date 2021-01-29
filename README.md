@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 NLPer Kaggler Robocuper Bloger 
+- 🔭 NLPer Kaggler Bloger 
 
 - ⚡ Fun fact: ...
 
