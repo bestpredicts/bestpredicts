@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 [![dshub](https://img.shields.io/badge/dshub-blue.svg)](https://dshub.cn/) 
 [![GitHub bestpredicts](https://img.shields.io/github/followers/bestpredicts?label=follow&style=social)](https://github.com/bestpredicts)
 [![Kaggle bestpredicts](https://img.shields.io/badge/Kaggle-blue.svg)](https://www.kaggle.com/bestpredict)
-[![Twitter: yongdeng0101](https://img.shields.io/twitter/follow/yongdeng0101?style=social)](https://twitter.com/yongdeng0101)
 
 
 
