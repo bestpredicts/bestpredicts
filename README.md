@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/2597628/competition)
+
+
 Here are some ideas to get you started:
 
 - 🔭 NLPer Kaggler Bloger 
