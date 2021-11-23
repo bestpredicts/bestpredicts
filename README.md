@@ -1,4 +1,4 @@
-### Hi there 👋
+## bestpredict
 
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bestpredict/competition)
 
